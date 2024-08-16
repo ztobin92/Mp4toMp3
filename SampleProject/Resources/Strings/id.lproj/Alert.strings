@@ -1,0 +1,37 @@
+/*
+  Alert.strings
+  SampleProject
+
+  Created by Bora Erdem on 26.01.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+"cancel" = "Batal";
+"clear" = "Bersihkan";
+"settings" = "Pengaturan";
+"sure" = "Tentu!";
+
+
+"clear.title" = "Bersihkan cache dan riwayat";
+"clear.desc" = "Apakah Anda yakin ingin menghapus cache dan riwayat?";
+"clear.success" = "Cache dan riwayat telah dihapus.";
+
+"restore" = "Pembelian Anda telah dipulihkan.";
+
+"gallery.title" = "Akses Diperlukan";
+"gallery.desc" = "Aplikasi ini memerlukan akses ke foto Anda untuk bekerja dengan baik.";
+
+
+"Rating.General.title" = "Apakah Anda menyukai aplikasi kami?";
+"Rating.General.desc" = "Jika Anda menghargai pengalaman Anda selama ini, mohon luangkan waktu sejenak untuk memberi kami penilaian 🙏";
+"Rating.General.negative" = "Saya tidak menyukainya";
+"Rating.General.positive" = "Saya menyukainya 💖";
+
+//
+"downloaded" = "File disimpan di\nFiles > Pada iPhone Saya > Konverter MP4 🚀";
+"batch.downloaded" = "Semua file disimpan di\nFiles > Pada iPhone Saya > Konverter MP4 🚀";
+
+"Rating.Welcome.title" = "Selamat datang kembali!";
+"Rating.Welcome.desc" = "Bantu kami! Kami menghargai umpan balik Anda. Apakah Anda punya waktu untuk menilai aplikasi kami?";
+"Rating.Welcome.negative" = "Tidak, terima kasih";
+"Rating.Welcome.positive" = "Beri penilaian pada aplikasi 🎉";

@@ -1,0 +1,98 @@
+/*
+ Modules.strings
+ SampleProject
+ 
+ Created by Mehmet Salih Aslan on 26.02.2021.
+ Copyright © 2021 SampleProject. All rights reserved.
+ */
+
+// MARK: - Home
+"Home.import" = "Import";
+"Home.go" = "Go";
+"Home.title" = "Audio Converter";
+"Home.from" = "From";
+"Home.gallery" = "Gallery";
+"Home.files" = "Files";
+
+// MARK: - History
+"History.date" = "Date";
+"History.title" = "Convert History";
+"History.empty" = "There's nothing yet.";
+
+// MARK: - Settings
+"Settings.title" = "Settings";
+"Settings.Section.general.title" = "General";
+"Settings.Section.general.rate" = "Rate Us";
+"Settings.Section.general.restore" = "Restore Purchases";
+"Settings.Section.general.clear" = "Clear History";
+
+"Settings.Section.help.title" = "Help & Support";
+"Settings.Section.help.contact" = "Contact Us";
+
+"Settings.Section.settings.title" = "Settings";
+"Settings.Section.settings.language" = "Language";
+"Settings.Section.settings.theme" = "Color Theme";
+
+"Settings.Section.other.title" = "Other";
+"Settings.Section.other.privacy" = "Privacy Policy";
+"Settings.Section.other.terms" = "Terms of Use";
+
+// MARK: - Edit
+"Edit.edit" = "Edit";
+"Edit.advance" = "Advance";
+"Edit.export" = "Export";
+"Edit.range" = "Range";
+"Edit.format" = "Format";
+"Edit.filename" = "File Name";
+"Edit.speed" = "Speed";
+"Edit.bit" = "Bit Rate";
+"Edit.sample" = "Sample Rate";
+"Edit.volume" = "Volume";
+"Edit.channels" = "Channels";
+"Edit.channels.single" = "Single";
+"Edit.channels.double" = "Double";
+"Edit.listed" = "Files Listed";
+
+
+// MARK: - Export
+"Export.title" = "Export";
+"Export.download" = "Download";
+"Export.share" = "Share";
+
+// MARK: - Batch
+"Batch.title" = "Batch";
+"Batch.download" = "Download All";
+"Batch.share" = "Share All";
+"Batch.tip" = "You can share or download each file seperatly in the history section.";
+
+// MARK: - Language
+"Language.title" = "Language";
+
+// MARK: - Paywall
+"Paywall.weekly" = "Weekly";
+"Paywall.yearly" = "Yearly";
+"Paywall.week" = "Week";
+"Paywall.year" = "Year";
+
+"Paywall.advantages.1.title" = "Unlimited Conversions 🚀";
+"Paywall.advantages.1.desc" = "Convert unlimited videos to any format. No limits.";
+
+"Paywall.advantages.2.title" = "Works Offline ✈️";
+"Paywall.advantages.2.desc" = "Convert your videos and audios without internet. Works perfectly.";
+
+"Paywall.advantages.3.title" = "10x Faster ⚡";
+"Paywall.advantages.3.desc" = "Save your time with 10x faster premium conversions!";
+"Paywall.try" = "Try 3 Days Free";
+"Paywall.purchase" = "Purchase";
+
+// MARK: - Onboard
+"Onboard.start" = "Get Started";
+"Onboard.Scene.1.title" = "MP4 & MP3 Converter";
+"Onboard.Scene.1.desc" = "Convert your videos to any audio format in seconds! .MP3, .AVI, .WAW and more!";
+
+"Onboard.Scene.2.title" = "“Ultimate tool to\nconvert your video”";
+"Onboard.Scene.2.desc" = "Convert video to audio with best sound quality. No internet required. ";
+
+"Onboard.Scene.2.advantages.1" = "Adjust Audio Settings";
+"Onboard.Scene.2.advantages.2" = "High Quality Output";
+"Onboard.Scene.2.advantages.3" = "See Convert History";

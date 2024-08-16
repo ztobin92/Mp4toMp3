@@ -1,0 +1,108 @@
+/*
+  Modules.strings
+  SampleProject
+
+  Created by Bora Erdem on 26.01.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+/*
+ Modules.strings
+ SampleProject
+ 
+ Created by Mehmet Salih Aslan on 26.02.2021.
+ Copyright © 2021 SampleProject. All rights reserved.
+ */
+
+// MARK: - Home
+"Home.import" = "Importeren";
+"Home.go" = "Ga";
+"Home.title" = "Audio-omzetter";
+"Home.from" = "Van";
+"Home.gallery" = "Galerij";
+"Home.files" = "Bestanden";
+
+// MARK: - History
+"History.date" = "Datum";
+"History.title" = "Conversie geschiedenis";
+"History.empty" = "Er is nog niets.";
+
+// MARK: - Settings
+"Settings.title" = "Instellingen";
+"Settings.Section.general.title" = "Algemeen";
+"Settings.Section.general.rate" = "Beoordeel ons";
+"Settings.Section.general.restore" = "Aankopen herstellen";
+"Settings.Section.general.clear" = "Geschiedenis wissen";
+
+"Settings.Section.help.title" = "Help & Ondersteuning";
+"Settings.Section.help.contact" = "Neem contact met ons op";
+
+"Settings.Section.settings.title" = "Instellingen";
+"Settings.Section.settings.language" = "Taal";
+"Settings.Section.settings.theme" = "Kleurthema";
+
+"Settings.Section.other.title" = "Overig";
+"Settings.Section.other.privacy" = "Privacybeleid";
+"Settings.Section.other.terms" = "Gebruiksvoorwaarden";
+
+// MARK: - Edit
+"Edit.edit" = "Bewerken";
+"Edit.advance" = "Vooruitgang";
+"Edit.export" = "Exporteren";
+"Edit.range" = "Bereik";
+"Edit.format" = "Formaat";
+"Edit.filename" = "Bestandsnaam";
+"Edit.speed" = "Snelheid";
+"Edit.bit" = "Bitrate";
+"Edit.sample" = "Samplefrequentie";
+"Edit.volume" = "Volume";
+"Edit.channels" = "Kanalen";
+"Edit.channels.single" = "Enkelvoudig";
+"Edit.channels.double" = "Dubbel";
+"Edit.listed" = "Bestanden vermeld";
+
+
+// MARK: - Export
+"Export.title" = "Exporteren";
+"Export.download" = "Downloaden";
+"Export.share" = "Delen";
+
+// MARK: - Batch
+"Batch.title" = "Batch";
+"Batch.download" = "Alles downloaden";
+"Batch.share" = "Alles delen";
+"Batch.tip" = "Je kunt elk bestand afzonderlijk delen of downloaden in de geschiedenissectie.";
+
+// MARK: - Language
+"Language.title" = "Taal";
+
+// MARK: - Paywall
+"Paywall.weekly" = "Wekelijks";
+"Paywall.yearly" = "Jaarlijks";
+"Paywall.week" = "Week";
+"Paywall.year" = "Jaar";
+
+"Paywall.advantages.1.title" = "Onbeperkte conversies 🚀";
+"Paywall.advantages.1.desc" = "Converteer onbeperkt video's naar elk formaat. Geen limieten.";
+
+"Paywall.advantages.2.title" = "Werkt offline ✈️";
+"Paywall.advantages.2.desc" = "Converteer je video's en audio zonder internet. Werkt perfect.";
+
+"Paywall.advantages.3.title" = "10x sneller ⚡";
+"Paywall.advantages.3.desc" = "Bespaar tijd met 10x snellere premium conversies!";
+"Paywall.try" = "Probeer 3 Dagen Gratis";
+"Paywall.purchase" = "Aankoop";
+
+// MARK: - Onboard
+"Onboard.start" = "Aan de slag";
+"Onboard.Scene.1.title" = "MP4 & MP3 Converter";
+"Onboard.Scene.1.desc" = "Converteer je video's naar elk audioformaat in enkele seconden! .MP3, .AVI, .WAW en meer!";
+
+"Onboard.Scene.2.title" = "“Ultieme tool om\nje video te converteren”";
+"Onboard.Scene.2.desc" = "Converteer video naar audio met de beste geluidskwaliteit. Geen internet vereist.";
+
+"Onboard.Scene.2.advantages.1" = "Audiominstellingen aanpassen";
+"Onboard.Scene.2.advantages.2" = "Hoogwaardige uitvoer";
+"Onboard.Scene.2.advantages.3" = "Bekijk conversiegeschiedenis";
+
+

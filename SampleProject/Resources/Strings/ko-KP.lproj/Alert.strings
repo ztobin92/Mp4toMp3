@@ -1,0 +1,37 @@
+/*
+  Alert.strings
+  SampleProject
+
+  Created by Bora Erdem on 26.01.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+"cancel" = "취소";
+"clear" = "지우기";
+"settings" = "설정";
+"sure" = "확실한!";
+
+
+"clear.title" = "캐시 및 기록 지우기";
+"clear.desc" = "캐시 및 기록을 지우시겠습니까?";
+"clear.success" = "캐시 및 기록이 지워졌습니다.";
+
+"restore" = "구매가 복원되었습니다.";
+
+"gallery.title" = "액세스 필요";
+"gallery.desc" = "이 앱은 제대로 작동하려면 사진에 액세스해야 합니다.";
+
+
+"Rating.General.title" = "우리 앱을 좋아하셨나요?";
+"Rating.General.desc" = "지금까지 경험한 것을 평가해 주시면 감사하겠습니다 🙏";
+"Rating.General.negative" = "좋아하지 않았어요";
+"Rating.General.positive" = "좋아요 💖";
+
+//
+"downloaded" = "파일이 저장되었습니다\n파일 > 내 iPhone > MP4 변환기 🚀";
+"batch.downloaded" = "모든 파일이 저장되었습니다\n파일 > 내 iPhone > MP4 변환기 🚀";
+
+"Rating.Welcome.title" = "다시 오신 것을 환영합니다!";
+"Rating.Welcome.desc" = "우리를 도와주세요! 피드백을 소중히 여깁니다. 앱을 평가할 시간이 있으신가요?";
+"Rating.Welcome.negative" = "아니요, 감사합니다";
+"Rating.Welcome.positive" = "앱 평가하기 🎉";

@@ -1,0 +1,16 @@
+/*
+ General.strings
+ SampleProject
+ 
+ Created by Mehmet Salih Aslan on 26.02.2021.
+ Copyright © 2021 SampleProject. All rights reserved.
+ */
+"premium" = "Premium";
+"expand" = "Expand";
+"collapse" = "Collapse";
+"and" = "and";
+"continue" = "Continue";
+
+"more" = "See more";
+"less" = "See less";
+"default" = "Default";

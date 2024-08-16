@@ -1,0 +1,108 @@
+/*
+  Modules.strings
+  SampleProject
+
+  Created by Bora Erdem on 26.01.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+/*
+ Modules.strings
+ SampleProject
+ 
+ Created by Mehmet Salih Aslan on 26.02.2021.
+ Copyright © 2021 SampleProject. All rights reserved.
+ */
+
+// MARK: - Home
+"Home.import" = "Impor";
+"Home.go" = "Pergi";
+"Home.title" = "Konverter Audio";
+"Home.from" = "Dari";
+"Home.gallery" = "Galeri";
+"Home.files" = "File";
+
+// MARK: - History
+"History.date" = "Tanggal";
+"History.title" = "Riwayat Konversi";
+"History.empty" = "Belum ada yang ada.";
+
+// MARK: - Settings
+"Settings.title" = "Pengaturan";
+"Settings.Section.general.title" = "Umum";
+"Settings.Section.general.rate" = "Beri Kami Nilai";
+"Settings.Section.general.restore" = "Pulihkan Pembelian";
+"Settings.Section.general.clear" = "Bersihkan Riwayat";
+
+"Settings.Section.help.title" = "Bantuan & Dukungan";
+"Settings.Section.help.contact" = "Hubungi Kami";
+
+"Settings.Section.settings.title" = "Pengaturan";
+"Settings.Section.settings.language" = "Bahasa";
+"Settings.Section.settings.theme" = "Tema Warna";
+
+"Settings.Section.other.title" = "Lainnya";
+"Settings.Section.other.privacy" = "Kebijakan Privasi";
+"Settings.Section.other.terms" = "Syarat Penggunaan";
+
+// MARK: - Edit
+"Edit.edit" = "Edit";
+"Edit.advance" = "Maju";
+"Edit.export" = "Ekspor";
+"Edit.range" = "Rentang";
+"Edit.format" = "Format";
+"Edit.filename" = "Nama File";
+"Edit.speed" = "Kecepatan";
+"Edit.bit" = "Bit Rate";
+"Edit.sample" = "Frekuensi Sampel";
+"Edit.volume" = "Volume";
+"Edit.channels" = "Saluran";
+"Edit.channels.single" = "Tunggal";
+"Edit.channels.double" = "Ganda";
+"Edit.listed" = "File Terdaftar";
+
+
+// MARK: - Export
+"Export.title" = "Ekspor";
+"Export.download" = "Unduh";
+"Export.share" = "Bagikan";
+
+// MARK: - Batch
+"Batch.title" = "Batch";
+"Batch.download" = "Unduh Semua";
+"Batch.share" = "Bagikan Semua";
+"Batch.tip" = "Anda dapat membagikan atau mengunduh setiap file secara terpisah di bagian riwayat.";
+
+// MARK: - Language
+"Language.title" = "Bahasa";
+
+// MARK: - Paywall
+"Paywall.weekly" = "Mingguan";
+"Paywall.yearly" = "Tahunan";
+"Paywall.week" = "Minggu";
+"Paywall.year" = "Tahun";
+
+"Paywall.advantages.1.title" = "Konversi Tanpa Batas 🚀";
+"Paywall.advantages.1.desc" = "Konversi video tanpa batas ke format apa pun. Tanpa batasan.";
+
+"Paywall.advantages.2.title" = "Bekerja Tanpa Koneksi Internet ✈️";
+"Paywall.advantages.2.desc" = "Konversi video dan audio tanpa internet. Berfungsi dengan sempurna.";
+
+"Paywall.advantages.3.title" = "10x Lebih Cepat ⚡";
+"Paywall.advantages.3.desc" = "hemat waktu Anda dengan konversi premium 10x lebih cepat!";
+"Paywall.try" = "Coba Gratis 3 Hari";
+"Paywall.purchase" = "Beli";
+
+// MARK: - Onboard
+"Onboard.start" = "Mulailah";
+"Onboard.Scene.1.title" = "Konverter MP4 & MP3";
+"Onboard.Scene.1.desc" = "Konversikan video Anda ke format audio apa pun dalam hitungan detik! .MP3, .AVI, .WAW, dan banyak lagi!";
+
+"Onboard.Scene.2.title" = "Alat terbaik untuk\nmengonversi video Anda";
+"Onboard.Scene.2.desc" = "Konversikan video ke audio dengan kualitas suara terbaik. Tidak memerlukan internet.";
+
+"Onboard.Scene.2.advantages.1" = "Sesuaikan Pengaturan Audio";
+"Onboard.Scene.2.advantages.2" = "Output Berkualitas Tinggi";
+"Onboard.Scene.2.advantages.3" = "Lihat Riwayat Konversi";
+
+

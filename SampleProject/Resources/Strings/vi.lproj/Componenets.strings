@@ -1,0 +1,12 @@
+/* 
+  Componenets.strings
+  SampleProject
+
+  Created by Bora Erdem on 26.01.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+"Premium.Container.unlock" = "Mở khóa";
+"Premium.Container.desc" = "Chuyển đổi bất kỳ loại âm thanh nào sang hơn 20 định dạng";
+"Premium.Container.action" = "Nâng cấp 🚀";
+"Premium.features" = "Tính năng";

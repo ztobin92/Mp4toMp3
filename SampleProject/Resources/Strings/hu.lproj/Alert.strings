@@ -1,0 +1,37 @@
+/*
+  Alert.strings
+  SampleProject
+
+  Created by Bora Erdem on 26.01.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+"cancel" = "Mégse";
+"clear" = "Egyértelmű";
+"settings" = "Beállítások";
+"sure" = "Biztos!";
+
+
+"clear.title" = "Gyorsítótár és előzmények törlése";
+"clear.desc" = "Biztosan törölni szeretné a gyorsítótárat és az előzményeket?";
+"clear.success" = "Gyorsítótár és előzmények törölve.";
+
+"restore" = "A vásárlás visszaállítva.";
+
+"gallery.title" = "Hozzáférés szükséges";
+"gallery.desc" = "Az alkalmazásnak hozzáférést kell kapnia a fényképekhez a megfelelő működéshez.";
+
+
+"Rating.General.title" = "Tetszett az alkalmazásunk?";
+"Rating.General.desc" = "Ha eddig elégedett volt a tapasztalattal, kérjük, szánjon időt egy értékelésre 🙏";
+"Rating.General.negative" = "Nem tetszett";
+"Rating.General.positive" = "Tetszett 💖";
+
+//
+"downloaded" = "Fájl mentve ide:\nFájlok > Az én iPhone-om > MP4 konverter 🚀";
+"batch.downloaded" = "Minden fájl mentve ide:\nFájlok > Az én iPhone-om > MP4 konverter 🚀";
+
+"Rating.Welcome.title" = "Üdvözöljük újra!";
+"Rating.Welcome.desc" = "Segítsen nekünk! Nagyra értékeljük visszajelzését. Van idő értékelni az alkalmazásunkat?";
+"Rating.Welcome.negative" = "Nem, köszönöm";
+"Rating.Welcome.positive" = "Értékelje az alkalmazást 🎉";

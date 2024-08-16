@@ -1,0 +1,36 @@
+/*
+  Alert.strings
+  SampleProject
+
+  Created by Bora Erdem on 26.01.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+"cancel" = "Abbrechen";
+"clear" = "Klar";
+"settings" = "Einstellungen";
+"sure" = "Sicher!";
+
+
+"clear.title" = "Cache und Verlauf löschen";
+"clear.desc" = "Möchten Sie wirklich den Cache und den Verlauf löschen?";
+"clear.success" = "Cache und Verlauf gelöscht.";
+
+"restore" = "Ihr Kauf wurde wiederhergestellt.";
+
+"gallery.title" = "Zugriff erforderlich";
+"gallery.desc" = "Diese App benötigt Zugriff auf Ihre Fotos, um ordnungsgemäß zu funktionieren.";
+
+"Rating.General.title" = "Hat Ihnen unsere App gefallen?";
+"Rating.General.desc" = "Wenn Ihnen bisher gefallen hat, was Sie erlebt haben, nehmen Sie sich bitte einen Moment Zeit, um uns zu bewerten 🙏";
+"Rating.General.negative" = "Ich mochte es nicht";
+"Rating.General.positive" = "Ich mag es 💖";
+
+//
+"downloaded" = "Datei gespeichert unter\nDateien > Auf meinem iPhone > MP4-Konverter 🚀";
+"batch.downloaded" = "Alle Dateien gespeichert unter\nDateien > Auf meinem iPhone > MP4-Konverter 🚀";
+
+"Rating.Welcome.title" = "Willkommen zurück!";
+"Rating.Welcome.desc" = "Helfen Sie uns! Wir schätzen Ihr Feedback. Haben Sie einen Moment Zeit, um unsere App zu bewerten?";
+"Rating.Welcome.negative" = "Nein, danke";
+"Rating.Welcome.positive" = "App bewerten 🎉";

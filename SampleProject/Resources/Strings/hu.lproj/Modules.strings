@@ -1,0 +1,108 @@
+/*
+  Modules.strings
+  SampleProject
+
+  Created by Bora Erdem on 26.01.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+/*
+ Modules.strings
+ SampleProject
+ 
+ Created by Mehmet Salih Aslan on 26.02.2021.
+ Copyright © 2021 SampleProject. All rights reserved.
+ */
+
+// MARK: - Home
+"Home.import" = "Importálás";
+"Home.go" = "Mehet";
+"Home.title" = "Hang Konverter";
+"Home.from" = "Innen";
+"Home.gallery" = "Galéria";
+"Home.files" = "Fájlok";
+
+// MARK: - History
+"History.date" = "Dátum";
+"History.title" = "Konverziós előzmények";
+"History.empty" = "Még nincs semmi.";
+
+// MARK: - Settings
+"Settings.title" = "Beállítások";
+"Settings.Section.general.title" = "Általános";
+"Settings.Section.general.rate" = "Értékelj minket";
+"Settings.Section.general.restore" = "Vásárlások helyreállítása";
+"Settings.Section.general.clear" = "Előzmények törlése";
+
+"Settings.Section.help.title" = "Segítség és támogatás";
+"Settings.Section.help.contact" = "Kapcsolatfelvétel velünk";
+
+"Settings.Section.settings.title" = "Beállítások";
+"Settings.Section.settings.language" = "Nyelv";
+"Settings.Section.settings.theme" = "Szín téma";
+
+"Settings.Section.other.title" = "Egyéb";
+"Settings.Section.other.privacy" = "Adatvédelmi irányelvek";
+"Settings.Section.other.terms" = "Felhasználási feltételek";
+
+// MARK: - Edit
+"Edit.edit" = "Szerkesztés";
+"Edit.advance" = "Előleg";
+"Edit.export" = "Exportálás";
+"Edit.range" = "Tartomány";
+"Edit.format" = "Formátum";
+"Edit.filename" = "Fájlnév";
+"Edit.speed" = "Sebesség";
+"Edit.bit" = "Bitráta";
+"Edit.sample" = "Mintavételi ráta";
+"Edit.volume" = "Hangerő";
+"Edit.channels" = "Csatornák";
+"Edit.channels.single" = "Egyetlen";
+"Edit.channels.double" = "Kettős";
+"Edit.listed" = "Felsorolt fájlok";
+
+
+// MARK: - Export
+"Export.title" = "Exportálás";
+"Export.download" = "Letöltés";
+"Export.share" = "Megosztás";
+
+// MARK: - Batch
+"Batch.title" = "Tömeg";
+"Batch.download" = "Mindet letölt";
+"Batch.share" = "Mindet megoszt";
+"Batch.tip" = "Minden fájlt külön-külön megoszthatsz vagy letölthetsz a előzmények részen.";
+
+// MARK: - Language
+"Language.title" = "Nyelv";
+
+// MARK: - Paywall
+"Paywall.weekly" = "Hetente";
+"Paywall.yearly" = "Évente";
+"Paywall.week" = "Hét";
+"Paywall.year" = "Év";
+
+"Paywall.advantages.1.title" = "Korlátlan átalakítások 🚀";
+"Paywall.advantages.1.desc" = "Korlátlan számú videó átalakítása bármilyen formátumba. Nincsenek korlátok.";
+
+"Paywall.advantages.2.title" = "Működik az internetkapcsolat nélkül ✈️";
+"Paywall.advantages.2.desc" = "Videók és hangfájlok átalakítása internetkapcsolat nélkül. Tökéletesen működik.";
+
+"Paywall.advantages.3.title" = "10-szer gyorsabb ⚡";
+"Paywall.advantages.3.desc" = "Mentse meg az idejét 10-szer gyorsabb prémium átalakítással!";
+"Paywall.try" = "Próbálja ki 3 napig ingyen";
+"Paywall.purchase" = "Vásárlás";
+
+// MARK: - Onboard
+"Onboard.start" = "Kezdje el";
+"Onboard.Scene.1.title" = "MP4 & MP3 Átalakító";
+"Onboard.Scene.1.desc" = "Alakítsa át videóit bármilyen hangformátumba másodpercek alatt! .MP3, .AVI, .WAV és még több!";
+
+"Onboard.Scene.2.title" = "„ Végső eszköz a videó konvertálásához”";
+"Onboard.Scene.2.desc" = "Alakítsa át videóit hangformátumra a legjobb hangminőséggel. Nincs szükség internetre.";
+
+"Onboard.Scene.2.advantages.1" = "Állítsa be az audiobeállításokat";
+"Onboard.Scene.2.advantages.2" = "Magas minőségű kimenet";
+"Onboard.Scene.2.advantages.3" = "Átalakítás előzményeinek megtekintése";
+
+

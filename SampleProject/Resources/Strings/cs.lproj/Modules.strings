@@ -1,0 +1,108 @@
+/*
+  Modules.strings
+  SampleProject
+
+  Created by Bora Erdem on 26.01.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+/*
+ Modules.strings
+ SampleProject
+ 
+ Created by Mehmet Salih Aslan on 26.02.2021.
+ Copyright © 2021 SampleProject. All rights reserved.
+ */
+
+// MARK: - Home
+"Home.import" = "Importovat";
+"Home.go" = "Jít";
+"Home.title" = "Audio Konvertor";
+"Home.from" = "Z";
+"Home.gallery" = "Galerie";
+"Home.files" = "Soubory";
+
+// MARK: - History
+"History.date" = "Datum";
+"History.title" = "Historie Konverzí";
+"History.empty" = "Zatím tu nic není.";
+
+// MARK: - Settings
+"Settings.title" = "Nastavení";
+"Settings.Section.general.title" = "Obecné";
+"Settings.Section.general.rate" = "Ohodnoťte nás";
+"Settings.Section.general.restore" = "Obnovit nákupy";
+"Settings.Section.general.clear" = "Vymazat historii";
+
+"Settings.Section.help.title" = "Nápověda a podpora";
+"Settings.Section.help.contact" = "Kontaktujte nás";
+
+"Settings.Section.settings.title" = "Nastavení";
+"Settings.Section.settings.language" = "Jazyk";
+"Settings.Section.settings.theme" = "Barva tématu";
+
+"Settings.Section.other.title" = "Ostatní";
+"Settings.Section.other.privacy" = "Zásady ochrany osobních údajů";
+"Settings.Section.other.terms" = "Podmínky použití";
+
+// MARK: - Edit
+"Edit.edit" = "Upravit";
+"Edit.advance" = "Postoupit";
+"Edit.export" = "Exportovat";
+"Edit.range" = "Rozsah";
+"Edit.format" = "Formát";
+"Edit.filename" = "Název souboru";
+"Edit.speed" = "Rychlost";
+"Edit.bit" = "Bitová rychlost";
+"Edit.sample" = "Vzorkovací rychlost";
+"Edit.volume" = "Hlasitost";
+"Edit.channels" = "Kanály";
+"Edit.channels.single" = "Jediný";
+"Edit.channels.double" = "Dvojitý";
+"Edit.listed" = "Seznam souborů";
+
+
+// MARK: - Export
+"Export.title" = "Exportovat";
+"Export.download" = "Stáhnout";
+"Export.share" = "Sdílet";
+
+// MARK: - Batch
+"Batch.title" = "Hromadně";
+"Batch.download" = "Stáhnout vše";
+"Batch.share" = "Sdílet vše";
+"Batch.tip" = "Každý soubor můžete sdílet nebo stáhnout zvlášť v historii.";
+
+// MARK: - Language
+"Language.title" = "Jazyk";
+
+// MARK: - Paywall
+"Paywall.weekly" = "Týdenně";
+"Paywall.yearly" = "Ročně";
+"Paywall.week" = "Týden";
+"Paywall.year" = "Rok";
+
+"Paywall.advantages.1.title" = "Neomezené konverze 🚀";
+"Paywall.advantages.1.desc" = "Převeďte libovolný počet videí do libovolného formátu. Žádná omezení.";
+
+"Paywall.advantages.2.title" = "Pracuje offline ✈️";
+"Paywall.advantages.2.desc" = "Převádějte svá videa a audia bez internetu. Pracuje perfektně.";
+
+"Paywall.advantages.3.title" = "10x Rychlejší ⚡";
+"Paywall.advantages.3.desc" = "Ušetřete čas s 10x rychlejšími prémiovými konverzemi!";
+"Paywall.try" = "Vyzkoušejte 3 dny zdarma";
+"Paywall.purchase" = "Nákup";
+
+// MARK: - Onboard
+"Onboard.start" = "Začněte";
+"Onboard.Scene.1.title" = "MP4 & MP3 Konvertor";
+"Onboard.Scene.1.desc" = "Převeďte svá videa do libovolného zvukového formátu za pár sekund! .MP3, .AVI, .WAW a další!";
+
+"Onboard.Scene.2.title" = "„Ultimátní nástroj pro\npřevod vašich videí“";
+"Onboard.Scene.2.desc" = "Převeďte video na zvuk s nejlepší kvalitou zvuku. Internet není potřeba.";
+
+"Onboard.Scene.2.advantages.1" = "Upravte nastavení zvuku";
+"Onboard.Scene.2.advantages.2" = "Vysoká kvalita výstupu";
+"Onboard.Scene.2.advantages.3" = "Zobrazit historii konverzí";
+
+

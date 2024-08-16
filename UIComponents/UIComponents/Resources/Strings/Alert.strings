@@ -1,0 +1,37 @@
+/* 
+  Alert.strings
+  UIComponents
+
+  Created by Bora Erdem on 26.01.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+"cancel" = "Cancel";
+"clear" = "Clear";
+"settings" = "Settings";
+"sure" = "Sure!";
+
+
+
+"downloaded" = "File downloaded 🚀";
+"batch.downloaded" = "All files downloaded 🚀";
+
+"clear.title" = "Clear cache and history";
+"clear.desc" = "Are you sure you want to clear cache and history?";
+"clear.success" = "Cache and history cleared.";
+
+"restore" = "Your purchase was restored.";
+
+"gallery.title" = "Access Required";
+"gallery.desc" = "This app needs access to your photos to work properly.";
+
+
+"Rating.General.title" = "Did you like our app?";
+"Rating.General.desc" = "If you appreciate what you’ve experienced so far, please take a moment to rate us 🙏";
+"Rating.General.negative" = "I did not like it";
+"Rating.General.positive" = "I like it 💖";
+
+"Rating.Welcome.title" = "Welcome!";
+"Rating.Welcome.desc" = "Help us out! We value your feedback. Do you have a moment to rate our app?";
+"Rating.Welcome.negative" = "No, thanks";
+"Rating.Welcome.positive" = "Rate the app 🎉";

@@ -1,0 +1,12 @@
+/* 
+ Components.strings
+ SampleProject
+ 
+ Created by Mehmet Salih Aslan on 26.02.2021.
+ Copyright © 2021 SampleProject. All rights reserved.
+ */
+
+"Premium.Container.unlock" = "Unlock";
+"Premium.Container.desc" = "Convert any type of audios to 20+ formats";
+"Premium.Container.action" = "Upgrade 🚀";
+"Premium.features" = "Features";

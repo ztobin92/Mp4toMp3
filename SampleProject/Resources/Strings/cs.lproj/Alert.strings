@@ -1,0 +1,37 @@
+/*
+  Alert.strings
+  SampleProject
+
+  Created by Bora Erdem on 26.01.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+"cancel" = "Zrušit";
+"clear" = "Vymazat";
+"settings" = "Nastavení";
+"sure" = "Jistě!";
+
+
+"clear.title" = "Vymazat cache a historii";
+"clear.desc" = "Opravdu chcete vymazat cache a historii?";
+"clear.success" = "Cache a historie byly vymazány.";
+
+"restore" = "Vaše nákupy byly obnoveny.";
+
+"gallery.title" = "Vyžadován přístup";
+"gallery.desc" = "Tato aplikace potřebuje přístup k vašim fotografiím, aby správně fungovala.";
+
+
+"Rating.General.title" = "Líbí se vám naše aplikace?";
+"Rating.General.desc" = "Pokud si ceníte toho, co jste dosud zažili, prosím, věnujte nám okamžik a ohodnoťte nás 🙏";
+"Rating.General.negative" = "Nelíbilo se mi to";
+"Rating.General.positive" = "Líbí se mi to 💖";
+
+//
+"downloaded" = "Soubor uložen do\nSoubory > Na mé iPhone > MP4 Konvertor 🚀";
+"batch.downloaded" = "Všechny soubory uloženy do\nSoubory > Na mé iPhone > MP4 Konvertor 🚀";
+
+"Rating.Welcome.title" = "Vítejte zpět!";
+"Rating.Welcome.desc" = "Pomozte nám! Vaše zpětná vazba je pro nás důležitá. Máte chvilku, abyste ohodnotili naši aplikaci?";
+"Rating.Welcome.negative" = "Ne, děkuji";
+"Rating.Welcome.positive" = "Ohodnotit aplikaci 🎉";

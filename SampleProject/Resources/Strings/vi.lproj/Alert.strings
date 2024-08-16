@@ -1,0 +1,34 @@
+/* 
+  Alert.strings
+  SampleProject
+
+  Created by Bora Erdem on 26.01.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+"cancel" = "Hủy";
+"clear" = "Xoá";
+"settings" = "Cài đặt";
+"sure" = "Chắc chắn!";
+
+"clear.title" = "Xoá bộ nhớ cache và lịch sử";
+"clear.desc" = "Bạn có chắc chắn muốn xoá bộ nhớ cache và lịch sử không?";
+"clear.success" = "Bộ nhớ cache và lịch sử đã được xoá.";
+
+"restore" = "Giao dịch mua của bạn đã được khôi phục.";
+
+"gallery.title" = "Yêu cầu truy cập";
+"gallery.desc" = "Ứng dụng này cần truy cập vào ảnh của bạn để hoạt động đúng cách.";
+
+"Rating.General.title" = "Bạn có thích ứng dụng của chúng tôi không?";
+"Rating.General.desc" = "Nếu bạn đánh giá cao những gì bạn đã trải qua cho đến nay, vui lòng dành chút thời gian để đánh giá chúng tôi 🙏";
+"Rating.General.negative" = "Tôi không thích";
+"Rating.General.positive" = "Tôi thích 💖";
+
+"downloaded" = "Tệp đã được lưu vào\nTệp > Trên iPhone của tôi > MP4 Converter 🚀";
+"batch.downloaded" = "Tất cả các tệp đã được lưu vào\nTệp > Trên iPhone của tôi > MP4 Converter 🚀";
+
+"Rating.Welcome.title" = "Chào mừng trở lại!";
+"Rating.Welcome.desc" = "Hãy giúp chúng tôi! Chúng tôi trân trọng phản hồi của bạn. Bạn có thời gian để đánh giá ứng dụng của chúng tôi không?";
+"Rating.Welcome.negative" = "Không, cảm ơn";
+"Rating.Welcome.positive" = "Đánh giá ứng dụng 🎉";
