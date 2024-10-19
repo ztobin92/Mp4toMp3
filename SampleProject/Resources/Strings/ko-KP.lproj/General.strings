@@ -1,0 +1,17 @@
+/*
+  General.strings
+  SampleProject
+
+  Created by Bora Erdem on 26.01.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+"premium" = "프리미엄";
+"expand" = "확장";
+"collapse" = "축소";
+"and" = "및";
+"continue" = "계속";
+
+"more" = "더보기";
+"less" = "간단히 보기";
+"default" = "기본값";

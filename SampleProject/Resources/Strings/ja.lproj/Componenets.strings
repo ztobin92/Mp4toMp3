@@ -1,0 +1,12 @@
+/*
+  Componenets.strings
+  SampleProject
+
+  Created by Bora Erdem on 26.01.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+"Premium.Container.unlock" = "アンロック";
+"Premium.Container.desc" = "あらゆる種類のオーディオを20以上の形式に変換";
+"Premium.Container.action" = "アップグレード 🚀";
+"Premium.features" = "機能";

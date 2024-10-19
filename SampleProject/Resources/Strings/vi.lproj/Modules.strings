@@ -1,0 +1,97 @@
+/* 
+  Modules.strings
+  SampleProject
+
+  Created by Bora Erdem on 26.01.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+// MARK: - Home
+"Home.import" = "Nhập";
+"Home.go" = "Đi";
+"Home.title" = "Trình chuyển đổi Âm thanh";
+"Home.from" = "Từ";
+"Home.gallery" = "Bộ sưu tập";
+"Home.files" = "Tệp";
+
+// MARK: - History
+"History.date" = "Ngày";
+"History.title" = "Lịch sử Chuyển đổi";
+"History.empty" = "Chưa có gì.";
+
+// MARK: - Settings
+"Settings.title" = "Cài đặt";
+"Settings.Section.general.title" = "Chung";
+"Settings.Section.general.rate" = "Đánh giá chúng tôi";
+"Settings.Section.general.restore" = "Khôi phục mua hàng";
+"Settings.Section.general.clear" = "Xóa Lịch sử";
+
+"Settings.Section.help.title" = "Trợ giúp & Hỗ trợ";
+"Settings.Section.help.contact" = "Liên hệ với chúng tôi";
+
+"Settings.Section.settings.title" = "Cài đặt";
+"Settings.Section.settings.language" = "Ngôn ngữ";
+"Settings.Section.settings.theme" = "Chủ đề Màu sắc";
+
+"Settings.Section.other.title" = "Khác";
+"Settings.Section.other.privacy" = "Chính sách Bảo mật";
+"Settings.Section.other.terms" = "Điều khoản Sử dụng";
+
+// MARK: - Edit
+"Edit.edit" = "Chỉnh sửa";
+"Edit.advance" = "Nâng cao";
+"Edit.export" = "Xuất";
+"Edit.range" = "Phạm vi";
+"Edit.format" = "Định dạng";
+"Edit.filename" = "Tên Tệp";
+"Edit.speed" = "Tốc độ";
+"Edit.bit" = "Tốc độ Bit";
+"Edit.sample" = "Tốc độ Mẫu";
+"Edit.volume" = "Âm lượng";
+"Edit.channels" = "Kênh";
+"Edit.channels.single" = "Một";
+"Edit.channels.double" = "Hai";
+"Edit.listed" = "Các Tệp Đã Liệt kê";
+
+// MARK: - Export
+"Export.title" = "Xuất";
+"Export.download" = "Tải xuống";
+"Export.share" = "Chia sẻ";
+
+// MARK: - Batch
+"Batch.title" = "Nhóm";
+"Batch.download" = "Tải Xuống Tất cả";
+"Batch.tip" = "Bạn có thể chia sẻ hoặc tải xuống từng tệp một trong phần lịch sử.";
+"Batch.share" = "Chia sẻ Tất cả";
+
+// MARK: - Language
+"Language.title" = "Ngôn ngữ";
+
+// MARK: - Paywall
+"Paywall.weekly" = "Hàng tuần";
+"Paywall.yearly" = "Hàng năm";
+"Paywall.week" = "Tuần";
+"Paywall.year" = "Năm";
+
+"Paywall.advantages.1.title" = "Chuyển đổi Không giới hạn 🚀";
+"Paywall.advantages.1.desc" = "Chuyển đổi video không giới hạn sang bất kỳ định dạng nào. Không có giới hạn.";
+
+"Paywall.advantages.2.title" = "Hoạt động Ngoại tuyến ✈️";
+"Paywall.advantages.2.desc" = "Chuyển đổi video và âm thanh của bạn mà không cần internet. Hoạt động hoàn hảo.";
+
+"Paywall.advantages.3.title" = "Nhanh gấp 10 lần ⚡";
+"Paywall.advantages.3.desc" = "Tiết kiệm thời gian với các chuyển đổi cao cấp nhanh gấp 10 lần!";
+"Paywall.try" = "Dùng Thử 3 Ngày Miễn Phí";
+"Paywall.purchase" = "Mua";
+
+// MARK: - Onboard
+"Onboard.start" = "Bắt đầu";
+"Onboard.Scene.1.title" = "Trình chuyển đổi MP4 & MP3";
+"Onboard.Scene.1.desc" = "Chuyển đổi video của bạn sang bất kỳ định dạng âm thanh nào trong vài giâ";
+
+"Onboard.Scene.2.title" = "Công cụ tối ưu để\nchuyển đổi video của bạn";
+"Onboard.Scene.2.desc" = "Chuyển đổi video thành âm thanh với chất lượng âm thanh tốt nhất. Không cần internet.";
+
+"Onboard.Scene.2.advantages.1" = "Điều chỉnh Cài đặt Âm thanh";
+"Onboard.Scene.2.advantages.2" = "Đầu ra Chất lượng Cao";
+"Onboard.Scene.2.advantages.3" = "Xem Lịch sử Chuyển đổi";

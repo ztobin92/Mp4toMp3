@@ -1,0 +1,17 @@
+/*
+  General.strings
+  SampleProject
+
+  Created by Bora Erdem on 26.01.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+"premium" = "Premium";
+"expand" = "Uitbreiden";
+"collapse" = "Inklappen";
+"and" = "en";
+"continue" = "Doorgaan";
+
+"more" = "Meer bekijken";
+"less" = "Minder bekijken";
+"default" = "Standaard";

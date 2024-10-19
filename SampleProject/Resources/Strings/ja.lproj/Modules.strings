@@ -1,0 +1,108 @@
+/*
+  Modules.strings
+  SampleProject
+
+  Created by Bora Erdem on 26.01.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+/*
+ Modules.strings
+ SampleProject
+ 
+ Created by Mehmet Salih Aslan on 26.02.2021.
+ Copyright © 2021 SampleProject. All rights reserved.
+ */
+
+// MARK: - Home
+"Home.import" = "インポート";
+"Home.go" = "行く";
+"Home.title" = "オーディオコンバーター";
+"Home.from" = "から";
+"Home.gallery" = "ギャラリー";
+"Home.files" = "ファイル";
+
+// MARK: - History
+"History.date" = "日付";
+"History.title" = "変換履歴";
+"History.empty" = "まだ何もありません。";
+
+// MARK: - Settings
+"Settings.title" = "設定";
+"Settings.Section.general.title" = "一般";
+"Settings.Section.general.rate" = "評価する";
+"Settings.Section.general.restore" = "購入を復元";
+"Settings.Section.general.clear" = "履歴をクリア";
+
+"Settings.Section.help.title" = "ヘルプ＆サポート";
+"Settings.Section.help.contact" = "お問い合わせ";
+
+"Settings.Section.settings.title" = "設定";
+"Settings.Section.settings.language" = "言語";
+"Settings.Section.settings.theme" = "カラーテーマ";
+
+"Settings.Section.other.title" = "その他";
+"Settings.Section.other.privacy" = "プライバシーポリシー";
+"Settings.Section.other.terms" = "利用規約";
+
+// MARK: - Edit
+"Edit.edit" = "編集";
+"Edit.advance" = "アドバンス";
+"Edit.export" = "エクスポート";
+"Edit.range" = "範囲";
+"Edit.format" = "フォーマット";
+"Edit.filename" = "ファイル名";
+"Edit.speed" = "速度";
+"Edit.bit" = "ビットレート";
+"Edit.sample" = "サンプルレート";
+"Edit.volume" = "音量";
+"Edit.channels" = "チャンネル";
+"Edit.channels.single" = "シングル";
+"Edit.channels.double" = "ダブル";
+"Edit.listed" = "一覧表示されたファイル";
+
+
+// MARK: - Export
+"Export.title" = "エクスポート";
+"Export.download" = "ダウンロード";
+"Export.share" = "共有";
+
+// MARK: - Batch
+"Batch.title" = "一括";
+"Batch.download" = "すべてをダウンロード";
+"Batch.share" = "すべてを共有";
+"Batch.tip" = "履歴セクションで各ファイルを個別に共有またはダウンロードできます。";
+
+// MARK: - Language
+"Language.title" = "言語";
+
+// MARK: - Paywall
+"Paywall.weekly" = "週間";
+"Paywall.yearly" = "年間";
+"Paywall.week" = "週";
+"Paywall.year" = "年";
+
+"Paywall.advantages.1.title" = "無制限変換 🚀";
+"Paywall.advantages.1.desc" = "無制限のビデオを任意の形式に変換。制限なし。";
+
+"Paywall.advantages.2.title" = "オフラインで動作 ✈️";
+"Paywall.advantages.2.desc" = "インターネットなしでビデオとオーディオを変換。完璧に機能します。";
+
+"Paywall.advantages.3.title" = "10倍高速化 ⚡";
+"Paywall.advantages.3.desc" = "プレミアム変換で10倍速く。時間を節約！";
+"Paywall.try" = "3日間無料トライアル";
+"Paywall.purchase" = "購入";
+
+// MARK: - Onboard
+"Onboard.start" = "はじめる";
+"Onboard.Scene.1.title" = "MP4 & MP3コンバーター";
+"Onboard.Scene.1.desc" = "動画を任意のオーディオ形式に瞬時に変換！ .MP3、.AVI、.WAWなど多彩な形式に対応！";
+
+"Onboard.Scene.2.title" = "「あなたのビデオを変換する究極のツール」";
+"Onboard.Scene.2.desc" = "最高の音質でビデオをオーディオに変換。インターネット不要。";
+
+"Onboard.Scene.2.advantages.1" = "オーディオ設定の調整";
+"Onboard.Scene.2.advantages.2" = "高品質な出力";
+"Onboard.Scene.2.advantages.3" = "変換履歴を参照";
+
+

@@ -1,0 +1,12 @@
+/*
+  Componenets.strings
+  SampleProject
+
+  Created by Bora Erdem on 26.01.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+"Premium.Container.unlock" = "Feloldás";
+"Premium.Container.desc" = "Bármilyen típusú hangot konvertálhat 20+ formátumba";
+"Premium.Container.action" = "Frissítse 🚀";
+"Premium.features" = "Jellemzők";

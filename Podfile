@@ -1,0 +1,108 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '13.0'
+
+# Comment the next line if you don't want to use dynamic frameworks
+use_frameworks!
+
+workspace 'SampleProject'
+
+# Network
+$Alamofire =  pod 'Alamofire', '~> 5.4'
+
+# Helper
+$TinyConstraints = pod "TinyConstraints", '~> 4.0'
+$IQKeyboardManagerSwift = pod "IQKeyboardManagerSwift", '~> 6.5'
+$SwiftLint = pod 'SwiftLint', '~> 0.44'
+$MobilliumUserDefaults = pod 'MobilliumUserDefaults', '~> 2.0'
+$MobilliumDateFormatter = pod 'MobilliumDateFormatter', '~> 1.2'
+$MobilliumBuilders = pod 'MobilliumBuilders', '~> 1.4'
+$Segmentio = pod 'Segmentio', '~> 4.1'
+$Kingfisher = pod 'Kingfisher', :git => 'https://github.com/onevcat/Kingfisher.git', :branch => 'version6-xcode13'
+$SwiftEntryKit = pod 'SwiftEntryKit', '~> 1.2'
+$SKPhotoBrowser = pod 'SKPhotoBrowser', '~> 7.0'
+$KeychainSwift = pod 'KeychainSwift', '~> 19.0'
+$SwiftGen = pod 'SwiftGen', '~> 6.5'
+
+target 'SampleProject' do
+  
+  project 'SampleProject.xcodeproj'
+
+  # Pods for SampleProject
+  
+  # Network
+  $Alamofire
+  
+  # Helper
+  $TinyConstraints
+  $IQKeyboardManagerSwift
+  $SwiftLint
+  $MobilliumUserDefaults
+  $MobilliumDateFormatter
+  $MobilliumBuilders
+  $Segmentio
+  $Kingfisher
+  $SwiftEntryKit
+  $SKPhotoBrowser
+  $KeychainSwift
+  
+  target 'SampleProjectTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'SampleProjectUITests' do
+    # Pods for testing
+  end
+
+end
+
+target 'DataProvider' do
+  
+  project 'DataProvider/DataProvider.xcodeproj'
+  
+  # Pods for DataProvider
+    
+  target 'DataProviderTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+  
+end
+
+target 'UIComponents' do
+  
+  project 'UIComponents/UIComponents.xcodeproj'
+  
+  # Pods for UIComponents
+  
+  # Helper
+  $TinyConstraints
+  $SwiftGen
+  $MobilliumBuilders
+  $Segmentio
+  $Kingfisher
+  $SwiftEntryKit
+  
+  target 'UIComponentsTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+  
+end
+
+target 'Utilities' do
+  
+  project 'Utilities/Utilities.xcodeproj'
+  
+  # Pods for Utilities
+  
+  # Helper
+  $MobilliumUserDefaults
+  
+  target 'UtilitiesTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+  
+end
+

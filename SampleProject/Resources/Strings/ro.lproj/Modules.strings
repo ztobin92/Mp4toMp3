@@ -1,0 +1,108 @@
+/*
+  Modules.strings
+  SampleProject
+
+  Created by Bora Erdem on 26.01.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+/*
+ Modules.strings
+ SampleProject
+ 
+ Created by Mehmet Salih Aslan on 26.02.2021.
+ Copyright © 2021 SampleProject. All rights reserved.
+ */
+
+// MARK: - Home
+"Home.import" = "Importare";
+"Home.go" = "Mergi";
+"Home.title" = "Conversor audio";
+"Home.from" = "De la";
+"Home.gallery" = "Galerie";
+"Home.files" = "Fișiere";
+
+// MARK: - History
+"History.date" = "Dată";
+"History.title" = "Istoric conversii";
+"History.empty" = "Încă nu există nimic.";
+
+// MARK: - Settings
+"Settings.title" = "Setări";
+"Settings.Section.general.title" = "General";
+"Settings.Section.general.rate" = "Evaluează-ne";
+"Settings.Section.general.restore" = "Restaurează achizițiile";
+"Settings.Section.general.clear" = "Șterge istoricul";
+
+"Settings.Section.help.title" = "Ajutor și suport";
+"Settings.Section.help.contact" = "Contactați-ne";
+
+"Settings.Section.settings.title" = "Setări";
+"Settings.Section.settings.language" = "Limbă";
+"Settings.Section.settings.theme" = "Tema culorilor";
+
+"Settings.Section.other.title" = "Altele";
+"Settings.Section.other.privacy" = "Politica de confidențialitate";
+"Settings.Section.other.terms" = "Termenii de utilizare";
+
+// MARK: - Edit
+"Edit.edit" = "Editare";
+"Edit.advance" = "Avans";
+"Edit.export" = "Export";
+"Edit.range" = "Interval";
+"Edit.format" = "Format";
+"Edit.filename" = "Nume fișier";
+"Edit.speed" = "Viteză";
+"Edit.bit" = "Rată de biți";
+"Edit.sample" = "Rată de eșantionare";
+"Edit.volume" = "Volum";
+"Edit.channels" = "Canale";
+"Edit.channels.single" = "Singur";
+"Edit.channels.double" = "Dublu";
+"Edit.listed" = "Fișiere listate";
+
+
+// MARK: - Export
+"Export.title" = "Exportare";
+"Export.download" = "Descărcare";
+"Export.share" = "Partajare";
+
+// MARK: - Batch
+"Batch.title" = "Lot";
+"Batch.download" = "Descărcare toate";
+"Batch.share" = "Partajare toate";
+"Batch.tip" = "Puteți partaja sau descărca fiecare fișier în mod separat în secțiunea de istoric.";
+
+// MARK: - Language
+"Language.title" = "Limba";
+
+// MARK: - Paywall
+"Paywall.weekly" = "Săptămânal";
+"Paywall.yearly" = "Anual";
+"Paywall.week" = "Săptămână";
+"Paywall.year" = "An";
+
+"Paywall.advantages.1.title" = "Conversii nelimitate 🚀";
+"Paywall.advantages.1.desc" = "Conversiți videoclipuri nelimitate în orice format. Fără limite.";
+
+"Paywall.advantages.2.title" = "Funcționează offline ✈️";
+"Paywall.advantages.2.desc" = "Conversiți videoclipurile și fișierele audio fără internet. Funcționează perfect.";
+
+"Paywall.advantages.3.title" = "Cu 10x mai rapid ⚡";
+"Paywall.advantages.3.desc" = "Economisiți timpul cu conversii premium de 10 ori mai rapide!";
+"Paywall.try" = "Încercați gratuit 3 zile";
+"Paywall.purchase" = "Cumpărare";
+
+// MARK: - Onboard
+"Onboard.start" = "Sa incepem";
+"Onboard.Scene.1.title" = "Conversor MP4 & MP3";
+"Onboard.Scene.1.desc" = "Conversiți-vă videoclipurile în orice format audio în câteva secunde! .MP3, .AVI, .WAV și altele!";
+
+"Onboard.Scene.2.title" = "Cel mai bun instrument pentru a\nconverti videoclipurile dvs";
+"Onboard.Scene.2.desc" = "Conversați videoclipul în audio cu cea mai bună calitate a sunetului. Nu este necesar internetul.";
+
+"Onboard.Scene.2.advantages.1" = "Reglați setările audio";
+"Onboard.Scene.2.advantages.2" = "Ieșire de înaltă calitate";
+"Onboard.Scene.2.advantages.3" = "Vedeți Istoricul conversiilor";
+
+

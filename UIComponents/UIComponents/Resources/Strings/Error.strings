@@ -1,0 +1,9 @@
+/*
+ Error.strings
+ SampleProject
+ 
+ Created by Mehmet Salih Aslan on 26.02.2021.
+ Copyright © 2021 SampleProject. All rights reserved.
+ */
+
+"convert.sound.channel" = "No audio channel found in the video.";

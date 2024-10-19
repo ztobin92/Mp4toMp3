@@ -1,0 +1,108 @@
+/*
+  Modules.strings
+  SampleProject
+
+  Created by Bora Erdem on 26.01.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+/*
+ Modules.strings
+ SampleProject
+ 
+ Created by Mehmet Salih Aslan on 26.02.2021.
+ Copyright © 2021 SampleProject. All rights reserved.
+ */
+
+// MARK: - Home
+"Home.import" = "가져오기";
+"Home.go" = "가다";
+"Home.title" = "오디오 변환기";
+"Home.from" = "부터";
+"Home.gallery" = "갤러리";
+"Home.files" = "파일";
+
+// MARK: - History
+"History.date" = "날짜";
+"History.title" = "변환 기록";
+"History.empty" = "아직 아무것도 없습니다.";
+
+// MARK: - Settings
+"Settings.title" = "설정";
+"Settings.Section.general.title" = "일반";
+"Settings.Section.general.rate" = "우리를 평가해";
+"Settings.Section.general.restore" = "구매 복원";
+"Settings.Section.general.clear" = "기록 지우기";
+
+"Settings.Section.help.title" = "도움말 및 지원";
+"Settings.Section.help.contact" = "문의하기";
+
+"Settings.Section.settings.title" = "설정";
+"Settings.Section.settings.language" = "언어";
+"Settings.Section.settings.theme" = "테마";
+
+"Settings.Section.other.title" = "기타";
+"Settings.Section.other.privacy" = "개인정보 보호 정책";
+"Settings.Section.other.terms" = "이용 약관";
+
+// MARK: - Edit
+"Edit.edit" = "편집";
+"Edit.advance" = "고급";
+"Edit.export" = "내보내기";
+"Edit.range" = "범위";
+"Edit.format" = "형식";
+"Edit.filename" = "파일 이름";
+"Edit.speed" = "속도";
+"Edit.bit" = "비트 속도";
+"Edit.sample" = "샘플 속도";
+"Edit.volume" = "볼륨";
+"Edit.channels" = "채널";
+"Edit.channels.single" = "단일";
+"Edit.channels.double" = "이중";
+"Edit.listed" = "목록에 있는 파일";
+
+
+// MARK: - Export
+"Export.title" = "내보내기";
+"Export.download" = "다운로드";
+"Export.share" = "공유";
+
+// MARK: - Batch
+"Batch.title" = "일괄";
+"Batch.download" = "모두 다운로드";
+"Batch.share" = "모두 공유";
+"Batch.tip" = "각 파일을 개별적으로 역사 섹션에서 공유하거나 다운로드할 수 있습니다.";
+
+// MARK: - Language
+"Language.title" = "언어";
+
+// MARK: - Paywall
+"Paywall.weekly" = "주간";
+"Paywall.yearly" = "연간";
+"Paywall.week" = "주";
+"Paywall.year" = "년";
+
+"Paywall.advantages.1.title" = "무제한 변환 🚀";
+"Paywall.advantages.1.desc" = "무제한 비디오를 어떤 형식으로든 변환하세요. 제한 없음.";
+
+"Paywall.advantages.2.title" = "오프라인 작업 ✈️";
+"Paywall.advantages.2.desc" = "인터넷 없이 비디오와 오디오를 변환하세요. 완벽하게 작동합니다.";
+
+"Paywall.advantages.3.title" = "10배 더 빠르게 ⚡";
+"Paywall.advantages.3.desc" = "10배 더 빠른 프리미엄 변환으로 시간을 절약하세요!";
+"Paywall.try" = "3일 무료 체험";
+"Paywall.purchase" = "구매";
+
+// MARK: - Onboard
+"Onboard.start" = "시작하기";
+"Onboard.Scene.1.title" = "MP4 & MP3 변환기";
+"Onboard.Scene.1.desc" = "동영상을 .MP3, .AVI, .WAW 등 다양한 오디오 형식으로 몇 초 만에 변환하세요!";
+
+"Onboard.Scene.2.title" = "“비디오를 변환하는\n최고의 도구”";
+"Onboard.Scene.2.desc" = "최고의 음질로 비디오를 오디오로 변환하세요. 인터넷 필요 없음.";
+
+"Onboard.Scene.2.advantages.1" = "오디오 설정 조정";
+"Onboard.Scene.2.advantages.2" = "고품질 출력";
+"Onboard.Scene.2.advantages.3" = "변환 기록 보기";
+
+

@@ -1,0 +1,17 @@
+/* 
+  General.strings
+  SampleProject
+
+  Created by Bora Erdem on 26.01.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+"premium" = "Cao cấp";
+"expand" = "Mở rộng";
+"collapse" = "Thu gọn";
+"and" = "và";
+"continue" = "Tiếp tục";
+
+"more" = "Xem thêm";
+"less" = "Thu gọn";
+"default" = "Mặc định";

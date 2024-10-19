@@ -1,0 +1,108 @@
+/*
+  Modules.strings
+  SampleProject
+
+  Created by Bora Erdem on 26.01.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+/*
+ Modules.strings
+ SampleProject
+ 
+ Created by Mehmet Salih Aslan on 26.02.2021.
+ Copyright © 2021 SampleProject. All rights reserved.
+ */
+
+// MARK: - Home
+"Home.import" = "Importieren";
+"Home.go" = "Los";
+"Home.title" = "Audio-Konverter";
+"Home.from" = "Von";
+"Home.gallery" = "Galerie";
+"Home.files" = "Dateien";
+
+// MARK: - History
+"History.date" = "Datum";
+"History.title" = "Konvertierungsverlauf";
+"History.empty" = "Es gibt noch nichts.";
+
+// MARK: - Settings
+"Settings.title" = "Einstellungen";
+"Settings.Section.general.title" = "Allgemein";
+"Settings.Section.general.rate" = "Bewerten Sie uns";
+"Settings.Section.general.restore" = "Käufe wiederherstellen";
+"Settings.Section.general.clear" = "Verlauf löschen";
+
+"Settings.Section.help.title" = "Hilfe & Support";
+"Settings.Section.help.contact" = "Kontaktiere uns";
+
+"Settings.Section.settings.title" = "Einstellungen";
+"Settings.Section.settings.language" = "Sprache";
+"Settings.Section.settings.theme" = "Farbschema";
+
+"Settings.Section.other.title" = "Andere";
+"Settings.Section.other.privacy" = "Datenschutzrichtlinie";
+"Settings.Section.other.terms" = "Nutzungsbedingungen";
+
+// MARK: - Edit
+"Edit.edit" = "Bearbeiten";
+"Edit.advance" = "Fortschritt";
+"Edit.export" = "Exportieren";
+"Edit.range" = "Bereich";
+"Edit.format" = "Format";
+"Edit.filename" = "Dateiname";
+"Edit.speed" = "Geschwindigkeit";
+"Edit.bit" = "Bitrate";
+"Edit.sample" = "Abtastrate";
+"Edit.volume" = "Lautstärke";
+"Edit.channels" = "Kanäle";
+"Edit.channels.single" = "Einzel";
+"Edit.channels.double" = "Doppel";
+"Edit.listed" = "Dateien aufgelistet";
+
+
+// MARK: - Export
+"Export.title" = "Exportieren";
+"Export.download" = "Herunterladen";
+"Export.share" = "Teilen";
+
+// MARK: - Batch
+"Batch.title" = "Stapel";
+"Batch.download" = "Alle herunterladen";
+"Batch.share" = "Alle teilen";
+"Batch.tip" = "Sie können jede Datei einzeln im Verlaufsbereich teilen oder herunterladen.";
+
+// MARK: - Language
+"Language.title" = "Sprache";
+
+// MARK: - Paywall
+"Paywall.weekly" = "Wöchentlich";
+"Paywall.yearly" = "Jährlich";
+"Paywall.week" = "Woche";
+"Paywall.year" = "Jahr";
+
+"Paywall.advantages.1.title" = "Unbegrenzte Konvertierungen 🚀";
+"Paywall.advantages.1.desc" = "Konvertieren Sie unbegrenzt Videos in jedes Format. Keine Begrenzungen.";
+
+"Paywall.advantages.2.title" = "Funktioniert offline ✈️";
+"Paywall.advantages.2.desc" = "Konvertieren Sie Ihre Videos und Audios ohne Internetverbindung. Funktioniert einwandfrei.";
+
+"Paywall.advantages.3.title" = "10x schneller ⚡";
+"Paywall.advantages.3.desc" = "Sparen Sie Zeit mit 10x schnelleren Premium-Konvertierungen!";
+"Paywall.try" = "3 Tage kostenlos testen";
+"Paywall.purchase" = "Kauf";
+
+// MARK: - Onboard
+"Onboard.start" = "Loslegen";
+"Onboard.Scene.1.title" = "MP4 & MP3 Konverter";
+"Onboard.Scene.1.desc" = "Konvertieren Sie Ihre Videos in Sekundenschnelle in jedes Audioformat! .MP3, .AVI, .WAW und mehr!";
+
+"Onboard.Scene.2.title" = "Ultimatives Werkzeug zum Konvertieren Ihrer Videos";
+"Onboard.Scene.2.desc" = "Konvertieren Sie Video in Audio mit bester Klangqualität. Kein Internet erforderlich.";
+
+"Onboard.Scene.2.advantages.1" = "Audioeinstellungen anpassen";
+"Onboard.Scene.2.advantages.2" = "Ausgabe in hoher Qualität";
+"Onboard.Scene.2.advantages.3" = "Konvertierungsverlauf anzeigen";
+
+

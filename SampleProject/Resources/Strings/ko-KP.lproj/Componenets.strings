@@ -1,0 +1,12 @@
+/*
+  Componenets.strings
+  SampleProject
+
+  Created by Bora Erdem on 26.01.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+"Premium.Container.unlock" = "잠금 해제";
+"Premium.Container.desc" = "모든 종류의 오디오를 20개 이상의 형식으로 변환";
+"Premium.Container.action" = "업그레이드 🚀";
+"Premium.features" = "기능";
